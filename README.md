@@ -1,0 +1,2 @@
+# K-means-clustering
+The client is leading fashion reailer in australia.Company runs a display advertising campaign for this brand,where it shows ads to users leading them to make a purchase on the brandswebsite.The given dataset is the sales data for all the users who made purchase online in the forst half of oct'17. Based on our analysis, we arrive at a statistical segmentation of the brands audience based on Revenue.
